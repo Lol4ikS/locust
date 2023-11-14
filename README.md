@@ -6,7 +6,6 @@
 [![license](https://img.shields.io/github/license/locustio/locust.svg)](https://github.com/locustio/locust/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/locustio/locust.svg)](https://github.com/locustio/locust/graphs/contributors)
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
-
 Locust is an easy to use, scriptableand scalable performance testing tool. You define your load test in regular Python code, instead of being constrained by a UI or domain specific language that only pretends to be real code. This makes Locust infinitely expandable and very developer friendly.
 
 To get started right away, head over to the [documentation](http://docs.locust.io/en/stable/installation.html).
